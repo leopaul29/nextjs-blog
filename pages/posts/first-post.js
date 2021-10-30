@@ -9,11 +9,7 @@ export default function FirstPost() {
         <title>First Post</title>
       </Head>
       <h1>First Post</h1>
-      <h2>
-        <Link href="/">
-          <a>Back to home</a>
-        </Link>
-      </h2>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem facilis ut qui obcaecati hic earum iste deserunt nihil nam omnis magni, molestiae inventore minus eligendi quasi vel praesentium. Perspiciatis, eveniet.</p>
     </Layout>
   )
 }
